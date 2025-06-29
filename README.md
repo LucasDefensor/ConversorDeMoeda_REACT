@@ -17,10 +17,10 @@ Aplicação web feita com React + Vite que converte valores entre diferentes moe
 
 ## Como usar
 
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/LucasDefensor/ConversorDeMoeda_REACT
 
 2. Instale as dependências:
 npm install
 
 3. Inicie o projeto:
-npm run dev
+npm run dev 
