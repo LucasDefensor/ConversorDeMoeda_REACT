@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+:root {
+  --color-bg: #340374;
+  --rgba-bg: rgba(52, 3, 116, 0.5);
+  --rgba-gray: rgba(255, 255, 255, 0.2);
+  --rgba-cobre: rgb(214, 121, 35);
+}
+
+.container{
+  backdrop-filter: blur(10px);
+  border: 2px solid var(--rgba-gray);
+  padding: 1em;
+  border-radius: 5%;
+}
+
+select{
+  margin: 5px;
+  outline: none;
+  border: 2px solid var(--rgba-gray);
+  border-radius: 40px;
+  padding: 10px;
+}
+
+input{
+  background: transparent;
+  outline: none;
+  border: 2px solid var(--rgba-gray);
+  border-radius: 40px;
+  padding: 10px;
+}
+
